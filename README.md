@@ -20,6 +20,8 @@ Hit me up if you have some ideas you want to develop!
 - <strong>Project-MEnd</strong> (Application to reduce myopia for all ages)
 - <strong>Scrollable</strong> (AI-powered media regulator application)
 - <strong>GentleUI</strong> (UI launcher that replaces the OS environment with one catered towards elderlies)
+- <strong>AUDIT</strong> (Application for Android devices to unify volume controls and audio settings)
+- <strong>ItemFacer</strong> (Cross-platform item facing management system with embedded custom AI-models)
 
 ## Skills
 
