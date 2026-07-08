@@ -48,9 +48,10 @@ Hit me up if you have some ideas you want to develop!
 ## GitHub Stats
 [![My GitHub Stats](https://github-readme-stats-xiaoxinnys-projects.vercel.app/api?username=xiaoxinny&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![My Wakatime](https://github-readme-stats-xiaoxinnys-projects.vercel.app/api/wakatime?username=xiaoxin)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
 **xiaoxinny/xiaoxinny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
